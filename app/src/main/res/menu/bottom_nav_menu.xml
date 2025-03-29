@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_calendar"
+        android:icon="@android:drawable/ic_menu_month"
+        android:title="Calendar" />
+    <item
+        android:id="@+id/nav_directory"
+        android:icon="@drawable/ic_menu_directory"
+        android:title="Directory" />
+    <item
+        android:id="@+id/nav_lost_found"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Lost and Found" />
+    <item
+        android:id="@+id/nav_news"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="News" />
+</menu>
