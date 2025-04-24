@@ -32,7 +32,7 @@ Campus Connect is an Android app designed to streamline campus life for universi
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/campus-connect.git
+   git clone https://github.com/parthmahaa/UTU.git
    ```
 2. Open the project in Android Studio
 
